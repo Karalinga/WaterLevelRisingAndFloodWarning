@@ -1,0 +1,113 @@
+Loading heights...
+0.85
+0.85
+0.90
+0.85
+Loading heights...
+0.84
+0.84
+0.91
+0.84
+Loading heights...
+0.84
+0.84
+0.90
+0.84
+Loading heights...
+0.84
+0.84
+0.90
+0.84
+Loading heights...
+Current Time: Sun Sep 12 19:53:24 2021
+0.84
+0.84
+0.90
+0.84
+Loading heights...
+Current Time: Sun Sep 12 20:01:42 2021
+0.84
+0.84
+0.90
+0.84
+Loading heights...
+Current Time: Sun Sep 12 20:04:40 2021
+0.84
+0.84
+0.90
+0.84
+Loading heights...
+Current Time: Sun Sep 12 20:10:26 2021
+0.84
+Loading heights...
+Current Time: Sun Sep 12 20:10:38 2021
+0.84
+Loading heights...
+Current Time: Sun Sep 12 20:11:19 2021
+0.84
+Loading heights...
+Current Time: Sun Sep 12 20:11:28 2021
+0.84
+Loading heights...
+Current Time: Sun Sep 12 20:11:43 2021
+0.84
+Loading heights...
+Current Time: Sun Sep 12 20:12:08 2021
+0.84
+0.84
+0.89
+0.84
+Loading heights...
+Current Time: Sun Sep 12 20:15:27 2021
+0.84
+0.84
+0.89
+0.84
+Loading heights...
+Current Time: Sun Sep 12 20:16:26 2021
+0.84
+0.84
+0.89
+0.84
+Loading heights...
+Current Time: Sun Sep 12 20:16:39 2021
+0.84
+0.84
+0.89
+0.84
+0.8524999999999999
+Loading heights...
+Current Time: Sun Sep 12 20:18:56 2021
+0.84
+0.84
+0.89
+0.84
+0.8524999999999999
+Loading heights...
+Current Time: Sun Sep 12 20:19:06 2021
+0.84
+0.84
+0.89
+0.84
+0.8524999999999999
+Loading heights...
+Current Time: Sun Sep 12 20:19:18 2021
+0.84
+0.84
+0.89
+0.84
+0.7524999999999999
+Loading heights...
+Current Time: Sun Sep 12 20:20:11 2021
+0.84
+0.84
+0.89
+0.84
+0.8524999999999999
+Loading heights...
+Current Time: Sun Sep 12 20:25:16 2021
+0.84
+0.84
+0.89
+0.84
+0.8524999999999999
